@@ -13,6 +13,7 @@ The objective of this API is to handle Similarity of text (PLAGIARISM CHECK)
 ## API ARCHITECTURE
 |RESOURCES |URL(PATH) |METHOD |PARAMETERS |STATUSCODE|
 |----------|-------|--------|--------------|----------|
-|Register a user |
+|Register a user | /register | POST | username 
+                                      password |
 
 
