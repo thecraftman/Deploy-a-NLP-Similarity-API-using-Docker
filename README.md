@@ -11,7 +11,8 @@ Document similarity (or distance between documents) is a one of the central them
 The objective of this API is to handle Similarity of text (PLAGIARISM CHECK) 
 
 ## API ARCHITECTURE
-|RESOURCE |URL |METHOD |PARAMETERS |STATUSCODE|
-|----------|----|--------|--------------|----------|
+|RESOURCES |URL(PATH) |METHOD |PARAMETERS |STATUSCODE|
+|----------|-------|--------|--------------|----------|
+|Register a user |
 
 
