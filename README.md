@@ -19,13 +19,13 @@ Document similarity (or distance between documents) is a one of the central them
 
 
 ## REQUIREMENTS
-[spacy.io](https://spacy.io/models/en) is  an open-source software library for advanced Natural Language Processing, written in the programming languages Python, it is very easy python processing module. 
+- [spacy.io](https://spacy.io/models/en) is  an open-source software library for advanced Natural Language Processing, written in the programming languages Python, it is very easy python processing module. 
 
 Download the spacy model from [here](https://github.com/explosion/spacy-models/releases//tag/en_core_web_sm-2.1.0)
 
 - Flask framework, see how to install and run the flask framework [here](https://github.com/pallets/flask) , for more [details](https://www.fullstackpython.com/flask.html)
 
-
+- pymongo, PyMongo is a Python distribution containing tools for working with MongoDB download and install pymongo from [here](https://api.mongodb.com/python/current/)
 
 
 
