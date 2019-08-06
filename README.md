@@ -23,5 +23,9 @@ Document similarity (or distance between documents) is a one of the central them
 
 Download the spacy model from [here](https://github.com/explosion/spacy-models/releases//tag/en_core_web_sm-2.1.0)
 
+- Flask framework, see how to install and run the flask framework [here](https://github.com/pallets/flask) , for more [details](https://www.fullstackpython.com/flask.html)
+
+
+
 
 
