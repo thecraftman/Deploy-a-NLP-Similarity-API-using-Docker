@@ -1,0 +1,7 @@
+Flask
+flask_restful
+pymongo
+bcrypt    #to store the password and store them as hashed
+spacy
+
+requests.get("http://)"
