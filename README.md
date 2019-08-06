@@ -18,4 +18,8 @@ Document similarity (or distance between documents) is a one of the central them
 |Refill | /refill | POST | username,  admin_pw,  refill_amount |  200:OK,  301:INVALID USERNAME , 304:INVALID ADMIN_PW
 
 
+## REQUIREMENTS
+[spacy.io](https://spacy.io/models/en)
+
+
 
