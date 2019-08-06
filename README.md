@@ -19,7 +19,9 @@ Document similarity (or distance between documents) is a one of the central them
 
 
 ## REQUIREMENTS
-[spacy.io](https://spacy.io/models/en)
+[spacy.io](https://spacy.io/models/en) is  an open-source software library for advanced Natural Language Processing, written in the programming languages Python, it is very easy python processing module. 
+
+Download the spacy model from [here](https://github.com/explosion/spacy-models/releases//tag/en_core_web_sm-2.1.0)
 
 
 
