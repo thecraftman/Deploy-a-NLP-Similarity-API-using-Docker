@@ -14,6 +14,8 @@ The objective of this API is to handle Similarity of text (PLAGIARISM CHECK)
 |RESOURCES |URL(PATH) |METHOD |PARAMETERS |STATUSCODE|
 |----------|-------|--------|--------------|----------|
 |Register a user | /register | POST | username, password | 200:OK,  301:INVALID USERNAME |
-|Detect Similarity of docs | /detect | POST | username, password , text1 & text2 |200:OK RETURN SIMILARITY ,              301:INVALID USERNAME, 302:INVALID PASSWORD, 303:OUT OF TOKENS
+|Detect Similarity of docs | /detect | POST | username, password , text1 & text2 |200:OK RETURN SIMILARITY ,   301:INVALID USERNAME,    302:INVALID PASSWORD,    303:OUT OF TOKENS
+|Refill | /refill | POST | username,  admin_pw,  refill_amount |  200:OK,  301:INVALID USERNAME , 304:INVALID ADMIN_PW
+
 
 
