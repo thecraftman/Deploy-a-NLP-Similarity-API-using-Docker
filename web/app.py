@@ -14,7 +14,7 @@ def UserExist(username):
     if users.find({"Username":username}).count() == 0:
         return False
     else:
-        return True
+        return Tru
 
 class Register(Resource):
     def post(self):
