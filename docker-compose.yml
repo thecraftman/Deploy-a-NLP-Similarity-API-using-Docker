@@ -8,4 +8,4 @@ services:
     links:
       - db
   db:
-    build: './db'
+    build: './db
