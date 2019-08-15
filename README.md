@@ -37,7 +37,7 @@ Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
 
 Thanks! Ore-Aruwaji Oloruntola
 
-## Licens
+## License
 MIT License (MIT)
 
 
