@@ -7,7 +7,7 @@ Document similarity (or distance between documents) is a one of the central them
 ![imageSimilarity](https://miro.medium.com/max/1838/1*l-BZLW3JUHd1MZbNq1MjQA.png)
 
 
-#### OBJECTIV
+#### OBJECTIVE
 `The objective of this API is to handle Similarity of text (PLAGIARISM CHECK) `
 
 ## API ARCHITECTURE
