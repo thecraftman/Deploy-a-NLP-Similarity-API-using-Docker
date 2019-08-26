@@ -127,7 +127,7 @@ class Detect(Resource):
 
         return jsonify(retJson)
 
-class Refill(Resource)
+class Refill(Resource):
     def post(self):
         postedData = request.get_json()
 
