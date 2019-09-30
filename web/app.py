@@ -8,7 +8,7 @@ api = Api(app)
 
 client = MongoClient("mongodb://db:27017")
 db = client.SimilarityDB
-users = db["Users
+users = db["Users"
 
 def UserExist(username):
     if users.find({"Username":username}).count() == 0:
