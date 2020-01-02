@@ -27,6 +27,10 @@ Download the spacy model from [here](https://github.com/explosion/spacy-models/r
 
 - pymongo, PyMongo is a Python distribution containing tools for working with MongoDB download and install pymongo from [here](https://api.mongodb.com/python/current/)
 
+- Docker 
+
+- Docker-compose.yml
+
 ## Contributing 
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
 
