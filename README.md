@@ -40,7 +40,7 @@ Why not star the github repo? I'd love the attention! Why not share the link for
 
 Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
 
-Thanks! Ore-Aruwaji Oloruntola
+Thanks! Ore-Aruwaji Olorun
 
 
 
