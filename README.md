@@ -30,7 +30,7 @@ Download the spacy model from [here](https://github.com/explosion/spacy-models/r
 
 - Docker
 
-- Docker-compose.yml
+- Docker-compose.y
 
 ## Contributing 
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
