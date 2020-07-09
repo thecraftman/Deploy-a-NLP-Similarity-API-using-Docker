@@ -1,4 +1,4 @@
-# RESTFULAPI-FOR-SIMILARITY CHECK-USING-NATURAL-LANGUAGE-PROCESSING
+# Restfull API For Similarity Check Using Natural Language Processing
 
 ## INTRODUCTION
 
