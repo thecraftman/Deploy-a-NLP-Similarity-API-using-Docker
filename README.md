@@ -1,7 +1,8 @@
 # RESTful API For Similarity Check Using Natural Language Processing
 
 ## INTRODUCTION
-Build a Similarity check API using NLP, run and deploy using Docker. 
+
+- Build a Similarity check API using NLP, run and deploy using Docker. 
 
 ### Documents similarity
 Document similarity (or distance between documents) is a one of the central themes in Information Retrieval. How humans usually define how similar are documents? Usually documents treated as similar if they are semantically close and describe similar concepts. On other hand “similarity” can be used in context of duplicate detection. We will review several common approaches.
