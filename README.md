@@ -1,6 +1,6 @@
 # RESTful API For Similarity Check Using Natural Language Processing
 
-## INTRODUCTION
+## INTRODUCTIO
 
 - Build a Similarity check API using NLP, run and deploy using Docker & Docker-compose. 
 
