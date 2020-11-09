@@ -49,7 +49,6 @@ class Register(Resource):
         }
         return jsonify(retJson)
 
-class pwd()
 def verifyPw(username, password):
     if not UserExist(username):
         return False
