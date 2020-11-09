@@ -48,7 +48,6 @@ class Register(Resource):
             "msg": "You successfully signed up for the API"
         }
         return jsonify(retJson)
-gh
 def verifyPw(username, password):
     if not UserExist(username):
         return False
