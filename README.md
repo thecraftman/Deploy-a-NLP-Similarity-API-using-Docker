@@ -4,6 +4,8 @@
 
 - Build a Similarity check API using NLP, run and deploy using Docker & Docker-compose. 
 
+-----------------
+
 ### Documents similarity
 Document similarity (or distance between documents) is a one of the central themes in Information Retrieval. How humans usually define how similar are documents? Usually documents treated as similar if they are semantically close and describe similar concepts. On other hand “similarity” can be used in context of duplicate detection. We will review several common approaches.
 
@@ -39,15 +41,19 @@ Download the spacy model from [here](https://github.com/explosion/spacy-models/r
 
 - Docker-compose.yml
 
+-----------------------
+
 ## Contributing 
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
+ 
+ -------------------
 
 ## How can I thank you?
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter, Hackernews or Destructoid ? Spread the word! 
 
 Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
 
-Thanks! Ore-Aruwaji Oloruntola
+Thanks! Ore-Aruwaji Tola. 
 
 
 
