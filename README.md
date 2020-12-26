@@ -1,4 +1,4 @@
-# RESTful API For Similarity Check Using Natural Language Processin
+# RESTful API For Similarity Check Using Natural Language Processing
 
 ## INTRODUCTION
 
