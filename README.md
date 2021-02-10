@@ -29,6 +29,7 @@ Document similarity (or distance between documents) is a one of the central them
 
 
 ## REQUIREMENTS
+
 - [spacy.io](https://spacy.io/models/en) is  an open-source software library for advanced Natural Language Processing, written in the programming languages Python, it is very easy python processing module. 
 
 Download the spacy model from [here](https://github.com/explosion/spacy-models/releases//tag/en_core_web_sm-2.1.0)
@@ -37,18 +38,20 @@ Download the spacy model from [here](https://github.com/explosion/spacy-models/r
 
 - pymongo, PyMongo is a Python distribution containing tools for working with MongoDB download and install pymongo from [here](https://api.mongodb.com/python/current/)
 
-- Docker
+- [Docker](https://www.docker.com/)
 
 - Docker-compose.yml
 
 -----------------------
 
 ## Contributing 
+
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
  
  -------------------
 
 ## How can I thank you?
+
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter, Hackernews or Destructoid ? Spread the word! 
 
 Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
