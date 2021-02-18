@@ -13,7 +13,6 @@ Document similarity (or distance between documents) is a one of the central them
 
 ----------------------
 
-
 #### OBJECTIVE
 
 `The objective of this API is to handle Similarity of text (PLAGIARISM CHECK) `
