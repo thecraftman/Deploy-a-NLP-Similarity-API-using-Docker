@@ -11,7 +11,6 @@ db = client.SimilarityDB
 users = db["Users"]
 
 
-
 def UserExist(username):
     count = users.count_documents({"Username": username})
     return count > 0
