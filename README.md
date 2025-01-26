@@ -53,7 +53,6 @@ Document similarity (or distance between documents) is a one of the central them
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter, Hackernews or Destructoid ? Spread the word! 
 
-Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
 
 Thanks! Ore-Aruwaji Tola. 
 
