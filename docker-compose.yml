@@ -9,4 +9,3 @@ services:
       - db
   db:
     build: './db'
-    build: './core-workflow'
